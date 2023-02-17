@@ -13,7 +13,7 @@
 
 CIT Calculator App is a simple Android Calculator that we built with Students at Coast Institute of Technology - Voi, using Jetpack Compose and Android Material Theme following Clean Architecture approach. 
 
-<img src="https://github.com/GypsyTheDj/ChitChat/blob/master/app/src/main/res/drawable/chat_icon.png">
+<img src="https://github.com/GypsyTheDj/CitCalculatorApp/blob/master/app/src/main/res/drawable/calculator_icon.jpg">
 
 </div>
 
@@ -36,24 +36,6 @@ CIT Calculator App is a simple Android Calculator that we built with Students at
 - Android Basics with Compose Course <https://developer.android.com/courses/android-basics-compose/course>
 - Android Basics in Kotlin Course <https://developer.android.com/courses/android-basics-kotlin/course>
 
-### Contributing and reporting issues 🤝
-
-I appreciate contributions of any kind - new contributions
-are welcome whether it's through bug reports or new pull requests.
-
-## Tell me about enhancements and bugs
-
-Please add an issue. I'll review it, add labels and reply within a few days.
-
-## See an issue you'd like to work on
-
-Comment on the issue that you'd like to work on and I'll add the
-`claimed` label.  If you see the `claimed` label already on the issue you
-might want to ask the contributor if they'd like some help.
-
-## Documentation needs updating
-
-Go right ahead! Just submit a pull request when you're done.
 
 ## Pull Requests
 
