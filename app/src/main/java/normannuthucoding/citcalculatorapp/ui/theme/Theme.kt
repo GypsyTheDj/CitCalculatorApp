@@ -1,4 +1,4 @@
-package com.example.citcalculatorapp.ui.theme
+package normannuthucoding.citcalculatorapp.ui.theme
 
 import android.app.Activity
 import android.os.Build
